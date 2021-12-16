@@ -4,5 +4,4 @@
 
 this is a really awsome website
 
-
-Updates made on master on Github before rebase!!!!!Second time
+change readme in local repo in thirdbranch wich created in remote Github.
